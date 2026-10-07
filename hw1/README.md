@@ -1,3 +1,4 @@
+> **CS6180 HW1 (Mini-LLM exercise):** see **[WRITEUP.md](WRITEUP.md)** for results and answers. The code is [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) with flags added for RMSNorm, SwiGLU, NoPE/RoPE and GQA. Experiments are in `run_experiments.sh`, loss logs in `results/`, plots in `plots/`. The original nanoGPT README follows.
 
 # nanoGPT
 
